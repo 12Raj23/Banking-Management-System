@@ -13,7 +13,8 @@
 <img src="images\money-transfer.jpg" alt="money" width="220" height="200">
 <img src="images\settings.jpg" alt="money" width="220" height="200">
 <img src="images\checkbalance.jpeg" alt="money" width="220" height="200">
-<img src="images\balance.jpg" alt="money" width="200" height="200">
+<img src="images\balance.jpg" alt="money" width="220" height="200">
+<img src="images\logo111.png" alt="money" width="220" height="200">
 
 <%Customer c=(Customer)request.getAttribute("customer"); %>
 <%String success=(String)request.getAttribute("success"); %>

@@ -9,7 +9,7 @@
  <div class="img">
  <img src="images\easy money.jpg" alt="money" width="600" height="300" style="float:right">
  </div>
-  <img src="images\logo111.png" alt="money" width="600" height="470" style="float:right">
+ 
 
 </head>
 
